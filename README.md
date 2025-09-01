@@ -80,6 +80,6 @@ O projeto tem uma base sólida, mas pode ser expandido com novas funcionalidades
 
 ## 👤 Autor
 
-* **Seu Nome:** Rafael Correia
-* **Seu GitHub:** @RafaelPhirst
-* **Seu LinkedIn:** www.linkedin.com/in/rafael-da-silva-correia
+* **Nome:** Rafael Correia
+* **GitHub:** @RafaelPhirst
+* **LinkedIn:** www.linkedin.com/in/rafael-da-silva-correia
