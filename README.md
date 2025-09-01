@@ -1,4 +1,4 @@
-#  Sorteador de Nomes Simples
+#  Desafio do Amigo Secreto
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
 ![HTML5](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
